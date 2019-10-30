@@ -1104,6 +1104,9 @@
             },
             ".mbr-step-text": {
               "color": "#ffffff"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#2ebcec"
             }
           },
           "_name": "step3",
@@ -1188,7 +1191,7 @@
               "color": "#f55079"
             },
             ".mbr-section-subtitle DIV": {
-              "color": "#149dcc"
+              "color": "#2ebcec"
             },
             ".mbr-step-text": {
               "color": "#ffffff"
