@@ -1979,6 +1979,22 @@ body {
   height: calc(100% - (10px + 4px) * 2);
   background-color: #efefef;
 }
+.cid-rGj82Ifvs8 .media-block {
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+@media (min-width: 992px) {
+  .cid-rGj82Ifvs8 .media-block {
+    padding-right: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rGj82Ifvs8 .media-block {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+    padding-bottom: 2rem;
+  }
+}
 .cid-rGj82Ifvs8 .mbr-section-title {
   color: #f55079;
 }
